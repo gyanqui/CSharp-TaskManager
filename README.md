@@ -48,7 +48,7 @@ dotnet run
 
 - **Editor:** Visual Studio Code with the C# Dev Kit extension
 - **Version control:** Git and GitHub
-- **Language:** C# running on the .NET SDK, built and run with the `dotnet` command-line tool
+- **Language:** C# running on the .NET 10 (SDK 10.0.400), built and run with the `dotnet` command-line tool
 - **Libraries:** only the .NET standard library is used, mainly `System.Text.Json` for saving and loading tasks, `System.Linq` for sorting and counting, and `System.Runtime.InteropServices` for the union demonstration. No third-party packages are required.
 
 # Useful Websites
