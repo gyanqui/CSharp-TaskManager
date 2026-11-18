@@ -1,6 +1,6 @@
 # Overview
 
-As a software engineer, I wanted to deepen my understanding of C# and the .NET platform by building a complete application from scratch rather than following a tutorial. This project is a console-based **Personal Task Manager** that lets a user add tasks with a title, priority, and due date, mark tasks as complete, view overdue tasks, organize the list, and track overall progress. Tasks are saved to a JSON file so they are still there the next time the program runs.
+I wanted to deepen my understanding of C# and the .NET platform by building a complete application from scratch rather than following a tutorial. This project is a console-based **Personal Task Manager** that lets a user add tasks with a title, priority, and due date, mark tasks as complete, view overdue tasks, organize the list, and track overall progress. Tasks are saved to a JSON file so they are still there the next time the program runs.
 
 The program is built to exercise the core features of the C# language:
 
