@@ -53,6 +53,7 @@ dotnet run
 
 # Useful Websites
 
+- [C# Tutorials from Basics](https://www.w3schools.com/cs/index.php)
 - [C# Documentation - Tour of C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 - [Wikipedia - C Sharp (programming language)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - [Microsoft Learn - Structure types (struct)](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/struct)
