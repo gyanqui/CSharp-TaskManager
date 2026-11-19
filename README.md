@@ -13,7 +13,7 @@ The program is built to exercise the core features of the C# language:
 
 My purpose in writing this software was to learn how C# organizes code with classes, namespaces, and value types, and to practice writing clear, well-documented code that is split into sensible files and folders.
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/9eKV4opfvGE))
+[Software Demo Video](https://youtu.be/9eKV4opfvGE)
 
 ## Project Structure
 
